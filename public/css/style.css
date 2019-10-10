@@ -1,5 +1,5 @@
 body {
- color: red;
+ color: black;
  font-family: arial;
  max-width: 650px;
  margin: 0 auto;
@@ -34,7 +34,7 @@ h1{
 
 header a{
     font-family: 'Courier New', Courier, monospace;
-    color : #888888;
+    color : red;
     margin-right: 16px;
     text-decoration: none;
 }

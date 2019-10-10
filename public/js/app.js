@@ -1,4 +1,4 @@
-console.log('Client side file is laoded')
+
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('inpit')
